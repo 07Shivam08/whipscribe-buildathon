@@ -41,7 +41,10 @@ A desktop app that:
 4. Manages your recordings through the MCP server: folders, search, rename,
    delete.
 
-For the level of finish we mean, see [Buzz](https://github.com/chidiwilliams/buzz).
+The bar is the best meeting-recording app you can find on the market — not a
+demo. Look at what people already use, work out what they get right and where
+they fall short, then design something better, from scratch if you need to.
+Tell us what you looked at and what you chose to do differently.
 
 Any stack; say why you chose yours. Guidance, not rules:
 

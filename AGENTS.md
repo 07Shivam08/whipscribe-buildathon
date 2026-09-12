@@ -13,7 +13,8 @@ An open challenge in three tracks — see `README.md`:
    a laptop, file UI bugs as issues here, propose fixes.
 2. **Build the desktop app.** Calendar-aware meeting recorder that transcribes
    through the WhipScribe API and manages the library through the WhipScribe
-   MCP server. Reference for the level of finish: Buzz.
+   MCP server. The bar is the best meeting-recording app on the market;
+   study what exists, then design better.
 3. **Google Drive, bulk upload and search.** Connect Drive, pick folders,
    transcribe everything in them with progress, then browse and search
    across the transcripts; asking a question across a folder is the stretch.
