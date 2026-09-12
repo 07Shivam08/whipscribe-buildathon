@@ -35,7 +35,13 @@ proposal is what we read first — we are looking for judgement, not volume.
 What stands out to us: noticing the problem a user would feel but not report,
 explaining it in two sentences, and a fix that is smaller than the problem.
 
-## Track 2 · Build the desktop recorder
+## Track 2 · Build the desktop app
+
+For a feel of the shape we mean, look at [Buzz](https://github.com/chidiwilliams/buzz):
+an open-source desktop app that records, transcribes and shows the result in
+one window. Ours goes further — the calendar decides what to record, WhipScribe
+does the transcription, and the library is shared with an AI assistant through
+MCP — but that level of finish is the bar.
 
 Build a desktop app that:
 
