@@ -25,6 +25,9 @@ and pricing. It is the live product.
 We read proposals before code. A small fix for a real problem beats a long
 list.
 
+**Start here:** [UI challenge 01 — the transcript page on a phone](challenges/01-mobile-transcript/README.md).
+A screenshot of today's screen; show us the after.
+
 ## Track 2 — Build the desktop app
 
 A desktop app that:
