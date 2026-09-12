@@ -47,6 +47,15 @@ Store links:
 - [ ] I have won a hackathon (link the entry and the result)
 - [ ] I have led a team, and can say what I decided and what I delegated
 
+### Workflows (Track 4)
+
+- [ ] The problem page names one specific person and what it costs them today
+- [ ] I spoke to at least one such person and wrote down what they said
+- [ ] The workflow is drawn: steps, what the API or MCP does, what the person sees
+- [ ] One flow runs end to end on real API calls and my own recordings
+- [ ] A two-minute recording shows the workflow doing its job
+- [ ] The vision says who else it serves, what it needs, and what comes next
+
 ### Self-drive
 
 - [ ] I opened a pull request with my current work and repos before being asked

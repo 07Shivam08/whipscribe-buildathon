@@ -5,11 +5,11 @@ WhipScribe turns recordings into transcripts and summaries. Try it at
 [API](https://whipscribe.com/docs) and an [MCP server](https://whipscribe.com/claude)
 for AI assistants.
 
-This is a hiring challenge. We want to find three kinds of people,
+This is a hiring challenge. We want to find four kinds of people,
 in this order: someone with a real eye for UI and UX, someone who builds well
-with AI tools, and someone who will take a feature all the way to a customer.
-Above all, someone with huge self-drive: you saw this, you started, nobody
-had to ask.
+with AI tools, someone who will take a feature all the way to a customer, and
+someone who can see what a user needs and put it in their hands. Above all,
+someone with huge self-drive: you saw this, you started, nobody had to ask.
 
 **Start now, with what you already have.** Open a pull request that shows
 us your current work — the repos you have built, the apps you have shipped,
@@ -86,6 +86,72 @@ A web app that:
 A thorough design on its own is a valid entry for this track. The UI is most
 of the problem.
 
+## Track 4 — Invent a workflow
+
+Pick a real person with a real problem that recordings can solve, and build
+the workflow that solves it, on the WhipScribe API, the MCP server, or both.
+This track is open-ended on purpose. It shows us two things the others
+cannot: what you can see that we have not, and what you can actually put in
+a user's hands.
+
+**Who the users are.** Anyone whose day produces audio they never get back
+to: a student with a term of lectures, a journalist with forty interviews, a
+sales rep with calls and a CRM to fill in, a researcher coding interviews by
+theme, a podcaster who needs show notes and chapters, a support lead who
+wants every call checked against a script, a founder with investor calls, a
+teacher giving spoken feedback, someone who sends themselves voice notes all
+day, a person who is deaf or hard of hearing and gets sent audio. Pick one.
+Be specific: not "students", but "a medical student revising from six hours
+of lectures a week".
+
+**What a workflow is.** The steps that go from the recording to the thing
+the person actually wanted, with the person doing as little as possible in
+between. Some shapes, to start you thinking; yours does not have to be on
+this list:
+
+- A meeting ends and the decisions and action items are already in Linear,
+  Jira, Notion or Todoist, each linked to the moment it was said.
+- A voice note sent to a bot on WhatsApp or Telegram comes back as text and
+  a summary, and lands in the library, filed.
+- Forty interviews become a theme-by-interview matrix a researcher can
+  defend, with every cell pointing at a quote.
+- A sales call becomes CRM notes with objections, commitments and next steps,
+  in the fields the CRM already has.
+- A term of lectures becomes study cards and a weekly quiz, with the weak
+  spots weighted.
+- A podcast episode becomes chapters, show notes, pull quotes and three
+  social posts, in the host's voice.
+- An assistant skill: connect the MCP server to Claude, ChatGPT or Cursor and
+  make "what did we agree with the vendor last month?" answerable from the
+  whole library, with sources.
+- A node for Zapier, Make or n8n, or a GitHub Action, so the workflow exists
+  for people who do not code.
+
+**What we want from you.**
+
+1. **The problem, in one page.** Who the person is, what they do today, what
+   it costs them in time or mistakes, and why recordings are the way in.
+   Talk to one such person if you can; say what they said.
+2. **The workflow, drawn.** The steps, what the API or MCP does in each, what
+   the person sees, and what they never have to do again.
+3. **A working prototype.** Real API calls, your own recordings, one flow
+   end to end. Read the [docs](https://whipscribe.com/docs) for what the API
+   returns; do not build on behaviour it does not have. A prototype that
+   works for one person beats a platform that works for nobody yet.
+4. **A two-minute recording** of the workflow doing its job, start to finish.
+5. **The vision.** What this looks like a year on if it works: who else it
+   serves, what it would need from us, what you would build next. This is
+   where we learn how far you can see.
+
+Any language, any framework, any integration you can reach. Build in
+`apps/your-name/` in your fork, with the problem page and the vision in its
+README.
+
+**How we read this track.** Is the problem real and specific? Does the
+workflow remove steps, not add a dashboard? Are the API and MCP used
+correctly and honestly? Did someone other than you try it? And does the
+vision hold up: can you see past the prototype to the product?
+
 ## What you need
 
 - Your own WhipScribe account. Get an API key under *Account → API key*.
@@ -115,8 +181,8 @@ Reviews are ours; the board is everyone's.
 2. Open a pull request (or an issue with the **Introduction** template) with
    a line about you, links to your repos and shipped apps, and what you plan
    to do. That is how you get the credit coupon.
-3. Track 1: file issues here. Tracks 2 and 3: build in `apps/your-name/` in
-   your fork, with a README that says how to run it and what works.
+3. Track 1: file issues here. Tracks 2, 3 and 4: build in `apps/your-name/`
+   in your fork, with a README that says how to run it and what works.
 4. Open a pull request when you want us to look. Small and early is better
    than big and late.
 
@@ -157,6 +223,8 @@ tickable list that is already in the Introduction and pull request templates.
    shipped all count here; link them and say what your part was.
 7. **Shipped apps.** iOS or Android apps you built that are live in a store
    with real users count. Paste the links in your introduction.
+8. **Vision.** Track 4 especially: did you pick a real problem, see the
+   whole workflow, and describe where it goes next in a way we believe?
 
 ## Rules
 

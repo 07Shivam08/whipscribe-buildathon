@@ -7,7 +7,7 @@ you on day one.
 
 ## What this repository is
 
-An open challenge in three tracks — see `README.md`:
+An open challenge in four tracks — see `README.md`:
 
 1. **Find what is wrong with the product.** Use whipscribe.com on a phone and
    a laptop, file UI bugs as issues here, propose fixes.
@@ -18,9 +18,14 @@ An open challenge in three tracks — see `README.md`:
 3. **Google Drive, bulk upload and search.** Connect Drive, pick folders,
    transcribe everything in them with progress, then browse and search
    across the transcripts; asking a question across a folder is the stretch.
+4. **Invent a workflow.** Pick one specific kind of user with audio they
+   never get back to, and build the workflow from recording to the thing
+   they wanted, on the WhipScribe API, the MCP server, or both. The entry is
+   a one-page problem statement, the drawn workflow, a working prototype, a
+   two-minute recording and a vision of where it goes next.
 
 The first thing a contributor should do is open a pull request showing
-their current work and repos — self-drive is judged. Work for tracks 2 and 3 lives in `apps/<your-name>/` in your fork, with its own README.
+their current work and repos — self-drive is judged. Work for tracks 2, 3 and 4 lives in `apps/<your-name>/` in your fork, with its own README.
 
 ## What WhipScribe is
 
@@ -77,6 +82,17 @@ Recordings in, transcripts and summaries out. Three public doors:
 5. Polish: states, shortcuts, notifications, first-run experience.
 
 Stop anywhere and submit; say where and why.
+
+## Suggested order for track 4
+
+1. Write the problem page before any code: the person, their day, the cost.
+2. Draw the workflow as a list of steps; mark which step the API or MCP does.
+3. Make one real API call with the contributor's own recording and show the
+   response before designing anything on top of it.
+4. Build the shortest path from recording to result; skip settings, accounts
+   and dashboards.
+5. Have one real person run it; record two minutes of it working.
+6. Write the vision last, from what was learned, not from what was planned.
 
 ## Suggested order for track 3
 
