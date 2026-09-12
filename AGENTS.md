@@ -54,10 +54,10 @@ Recordings in, transcripts and summaries out. Three public doors:
 ## Conventions
 
 - Any stack. Prefer what the contributor can make excellent over what is
-  fashionable; ship one platform well before two badly. Platform notes:
-  Windows system audio is WASAPI loopback (easy); macOS needs
-  ScreenCaptureKit permissions (hard); iOS cannot capture other apps' audio
-  at all — microphone only. Never promise system-audio capture on iOS.
+  fashionable; ship one platform well before two badly. Track 2 is desktop only (Windows first, macOS welcome); WhipScribe
+  already has an iOS app, so do not build a phone app. Platform notes: Windows
+  system audio is WASAPI loopback (easy); macOS needs ScreenCaptureKit
+  permissions (hard).
 - Design the states: empty, loading, error, done, offline. A screen that only
   works on the happy path is not done.
 - Accessibility is part of UI quality: keyboard reachable, readable contrast,

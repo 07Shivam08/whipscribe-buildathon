@@ -47,9 +47,9 @@ Any stack; say why you chose yours. Guidance, not rules:
   a web UI. Electron is fine if it is what you ship fastest.
 - **macOS:** the same Tauri 2 or Electron build. Recording system audio needs
   ScreenCaptureKit permissions — the hardest part of the app.
-- **iOS:** Swift and SwiftUI. Know the limit before you start: iOS does not let
-  an app capture another app's audio, so a phone can record a meeting only
-  through the microphone. Design for that.
+
+Desktop only for this track: Windows first, macOS welcome. WhipScribe already
+has an iOS app, so a phone app is not part of the challenge.
 
 One platform done well beats two done badly.
 
