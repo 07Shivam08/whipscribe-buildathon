@@ -111,8 +111,8 @@ We read proposals before code. A small fix for a real problem beats a long
 list. Every participant does this track: it is the quickest way for us to
 see your eye, and for you to see the product you would be working on.
 
-**Start here:** [UI challenge 01 — the transcript page on a phone](challenges/01-mobile-transcript/README.md).
-A screenshot of today's screen; show us the after.
+**Start here:** [UI challenge 01 — the transcript reader on a phone](challenges/01-mobile-transcript/README.md).
+Our current design, every state on screen; show us the next version.
 
 ### Track 2 — Build the desktop app
 
