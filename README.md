@@ -124,7 +124,7 @@ its transcript → bulk with progress → search → ask.
 ## Prizes
 
 - **Winner:** the Neugence Challenge certificate, and cash of **6,000**.
-- **Second:** **4,000**. **Third:** **2,000**.
+- **Second:** **4,000**.
 - Everyone whose work stands out is invited to keep going with us on the real
   product, with access, ownership and pay that grow with what they take on.
 
