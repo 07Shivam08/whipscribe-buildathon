@@ -1,18 +1,9 @@
-**Track** (UI fix / desktop app / Drive, bulk upload and search)
+# Checklist
 
-**What this does**
-
-**How to try it**
-
-**What works, what does not yet**
-
-**What I learned or had to look up**
-
-**About me** (name, how to reach you — or link your introduction issue)
-
-## Checklist
-
-Tick what is true of this PR:
+What we look for. Tick what is true of your entry and paste the list into
+your **Introduction** issue or your pull request — the boxes stay tickable
+there. Be honest; an unticked box with a sentence next to it is worth more
+than a ticked one that is not true.
 
 ### UI and UX
 
@@ -52,3 +43,7 @@ Store links:
 - [ ] I name something that was new to me and how I learned it
 - [ ] I describe a thing that went wrong and how I found and fixed it
 - [ ] I asked a question in an issue early instead of guessing late
+
+Track 1 entries (bug reports and proposals) are read for UI and UX, whether
+the fix is small, correct and complete, and learning; shipped apps and AI use
+count where you show them.

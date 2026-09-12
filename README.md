@@ -113,9 +113,8 @@ No deadline yet. When there is one, it will be posted here.
 
 ## How we judge
 
-Score yourself first with [`SCORECARD.md`](SCORECARD.md) — 100 points, a tickable
-checklist that is already in the Introduction and pull request templates. The
-same list with a live total: [scorecard page](https://neugence.github.io/whipscribe-buildathon/scorecard.html).
+Check yourself first with [`CHECKLIST.md`](CHECKLIST.md) — what we look for, as a
+tickable list that is already in the Introduction and pull request templates.
 
 1. **UI and UX.** Does it feel right? Are empty, loading, error and done
    states designed? Would a non-technical person get it?

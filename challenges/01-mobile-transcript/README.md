@@ -43,4 +43,4 @@ Submit as a pull request, or as a **Proposal** issue with the images attached.
 
 UI and UX craft carries this one: hierarchy, touch targets, states, copy.
 A redesign that removes more than it adds, and explains why, will score
-above one that adds features. See `../../SCORECARD.md`.
+above one that adds features. See `../../CHECKLIST.md`.
