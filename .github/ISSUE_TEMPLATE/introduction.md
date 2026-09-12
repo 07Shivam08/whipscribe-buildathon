@@ -48,6 +48,13 @@ Store links:
 - [ ] The README says exactly what does not work yet
 - [ ] Install and run instructions work on a machine that is not mine
 
+### Ownership and teamwork
+
+- [ ] I linked repos where the commit history is mine, not a fork's
+- [ ] One of them is a complex project I owned from start to finish
+- [ ] I have reviewed others' pull requests or answered their issues, and can point to it
+- [ ] I have shipped work alongside a team, and can say what I did and what they did
+
 ### Self-drive
 
 - [ ] I opened a pull request with my current work and repos before being asked

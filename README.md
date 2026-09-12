@@ -13,9 +13,12 @@ had to ask.
 
 **Start now, with what you already have.** Open a pull request that shows
 us your current work — the repos you have built, the apps you have shipped,
-the thing you are proudest of, with links. That counts. It tells us how you
-work before you have written a line for us, and it is how you get the credit
-coupon.
+the thing you are proudest of, with links. That counts. We read the
+contribution history in those repos: your own commits, not forks; whether
+you owned something complex from start to finish; and how you worked with
+others — reviews you gave, issues you answered, work you did alongside a
+team. It tells us how you work before you have written a line for us, and it
+is how you get the credit coupon.
 
 Then pick one track or more.
 
@@ -146,7 +149,10 @@ tickable list that is already in the Introduction and pull request templates.
 4. **Learning.** Say what was new to you and how it went.
 5. **Self-drive.** Did you start before anyone asked, show what you have
    already built, and keep moving without being chased?
-6. **Shipped apps.** iOS or Android apps you built that are live in a store
+6. **Ownership and teamwork.** In the repos you link: did you own a complex
+   project end to end, and did you work well with others — reviews, issues,
+   shared work?
+7. **Shipped apps.** iOS or Android apps you built that are live in a store
    with real users count. Paste the links in your introduction.
 
 ## Rules
