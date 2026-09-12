@@ -87,8 +87,9 @@ speed you up: WhipScribe, Playwright, Context7, GitHub.
 ## How to take part
 
 1. Fork this repo.
-2. Open an issue titled **Introduction: your name** with a line about you and
-   what you plan to do. That is how you get the credit coupon.
+2. Open an issue with the **Introduction** template: a line about you, the
+   apps you have shipped, and what you plan to do. That is how you get the
+   credit coupon.
 3. Track 1: file issues here. Tracks 2 and 3: build in `apps/your-name/` in
    your fork, with a README that says how to run it and what works.
 4. Open a pull request when you want us to look. Small and early is better
@@ -106,6 +107,9 @@ No deadline yet. When there is one, it will be posted here.
 
 ## How we judge
 
+Score yourself first: [scorecard](https://neugence.github.io/whipscribe-buildathon/scorecard.html)
+(or open `scorecard.html`). It is the same 100 points we use — see `SCORECARD.md`.
+
 1. **UI and UX.** Does it feel right? Are empty, loading, error and done
    states designed? Would a non-technical person get it?
 2. **Building with AI, well.** Did you understand what the tool produced,
@@ -113,6 +117,8 @@ No deadline yet. When there is one, it will be posted here.
 3. **Finishing.** One thing that works for a real user beats three that
    nearly do.
 4. **Learning.** Say what was new to you and how it went.
+5. **Shipped apps.** iOS or Android apps you built that are live in a store
+   with real users count. Paste the links in your introduction.
 
 ## Rules
 
