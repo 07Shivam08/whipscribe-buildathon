@@ -68,8 +68,9 @@ of the problem.
 - Credits for testing: introduce yourself (below) and we send you a 7-day
   coupon for API credits.
 
-AI tools are expected. `AGENTS.md` is the brief for them, and `ai/prompts/`
-has a starter prompt for each track.
+AI tools are expected. `AGENTS.md` is the brief for them, `ai/prompts/` has a
+starter prompt for each track, and `TOOLS.md` sets up the MCP servers that
+speed you up: WhipScribe, Playwright, Context7, GitHub.
 
 ## How to take part
 

@@ -82,6 +82,13 @@ Stop anywhere and submit; say where and why.
 4. Search across transcripts with results that jump to the moment.
 5. Ask a question across a folder.
 
+## Tools
+
+`.mcp.json` configures four MCP servers: WhipScribe (the user's own account),
+Playwright (drive a real browser, emulate phones, screenshot), Context7
+(current library docs), GitHub (issues and PRs). `TOOLS.md` explains each.
+Use Playwright for anything about how a page behaves; do not guess from HTML.
+
 ## Starter prompts
 
 `ai/prompts/` has a prompt per track to paste into any tool as the first
