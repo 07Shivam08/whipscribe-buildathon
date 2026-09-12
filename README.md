@@ -1,6 +1,6 @@
 # WhipScribe Buildathon
 
-WhipScribe turns recordings into transcripts, summaries and clips: paste a link
+WhipScribe turns recordings into transcripts and summaries: paste a link
 or upload a file at [whipscribe.com](https://whipscribe.com), or call the
 [API](https://whipscribe.com/docs), or use it inside Claude through the
 [WhipScribe MCP server](https://whipscribe.com/claude).
