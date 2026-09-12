@@ -12,8 +12,12 @@
 
 ## Track record
 
-Keep the labels; the leaderboard reads these lines into your profile.
+Keep the labels; the leaderboard reads these lines into your profile and
+checks them: your commits in each repo, whether store pages are live, and
+whether the same LinkedIn is on your GitHub profile (GitHub → Settings →
+Profile → Social accounts).
 
+- LinkedIn: <your profile link>
 - Shipped apps: <store links, comma-separated>
 - Hackathon wins: <event, result, link>
 - Team lead: <what you led, team size, outcome>

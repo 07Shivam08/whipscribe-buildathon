@@ -40,6 +40,7 @@ Store links:
 
 ### Ownership and teamwork
 
+- [ ] My LinkedIn is in my introduction and on my GitHub profile
 - [ ] I linked repos where the commit history is mine, not a fork's
 - [ ] One of them is a complex project I owned from start to finish
 - [ ] I have reviewed others' pull requests or answered their issues, and can point to it

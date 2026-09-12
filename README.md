@@ -172,15 +172,19 @@ Live standings for every track and challenge: [whipscribe.com/buildathon](https:
 You appear there as soon as you open an introduction issue or a pull request;
 your rank appears once reviewers have scored you. Click any name for the
 profile: GitHub facts, the **Track record** you wrote in your introduction
-(shipped apps, hackathon wins, teams led, team projects), and every score.
-Reviews are ours; the board is everyone's.
+(LinkedIn, shipped apps, hackathon wins, teams led, team projects), and every
+score. What you claim is checked, not just read: for every repo you link we
+count your commits against everyone else's, store links are checked live,
+Devpost pages are read for the winner mark, and your LinkedIn is matched
+against the one on your GitHub profile. Reviews are ours; the board is
+everyone's.
 
 ## How to take part
 
 1. Fork this repo.
 2. Open a pull request (or an issue with the **Introduction** template) with
-   a line about you, links to your repos and shipped apps, and what you plan
-   to do. That is how you get the credit coupon.
+   a line about you, your LinkedIn, links to your repos and shipped apps, and
+   what you plan to do. That is how you get the credit coupon.
 3. Track 1: file issues here. Tracks 2, 3 and 4: build in `apps/your-name/`
    in your fork, with a README that says how to run it and what works.
 4. Open a pull request when you want us to look. Small and early is better
