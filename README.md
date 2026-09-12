@@ -28,6 +28,16 @@ the right fit. Then the offer.
 
 **Immediate hire.** We make the offer as soon as we see the right person.
 
+## The tracks
+
+| | Track | |
+|---|---|---|
+| 0 | [Show us what you already have](#track-0--show-us-what-you-already-have-required) — a pull request with your LinkedIn, repos, shipped apps, wins and teams | **required, do it first** |
+| 1 | [Find what is wrong](#track-1--find-what-is-wrong-required) — UI bugs and proposals on the live product | **required** |
+| 2 | [Build the desktop app](#track-2--build-the-desktop-app) | pick one or more |
+| 3 | [Google Drive, bulk upload, search](#track-3--google-drive-bulk-upload-search) | pick one or more |
+| 4 | [Invent a workflow](#track-4--invent-a-workflow) on the API and MCP | pick one or more |
+
 ## Track 0 — Show us what you already have (required)
 
 Before anything else, open a pull request that shows us your current work,
