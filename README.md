@@ -1,5 +1,24 @@
 # WhipScribe Buildathon
 
+**A hiring challenge, open now.** Show us what you have built, find what is
+wrong with a live product, build something on it if you want — and the best
+person gets a founding engineer job. Immediate hire, fully remote.
+
+## Who we are looking for
+
+Four kinds of people, in this order:
+
+| | Who | We see it in |
+|---|---|---|
+| 1 | Someone with a real eye for **UI and UX** | Track 1, Challenge 01, every screen you ship |
+| 2 | Someone who **builds well with AI tools** | Your commits and README: what you kept, what you dropped |
+| 3 | Someone who **takes a feature all the way to a customer** | Finishing; apps you have shipped; someone else using your work |
+| 4 | Someone who **sees what a user needs and puts it in their hands** | Track 4, and the vision you write for it |
+
+Above all: **huge self-drive.** You saw this, you started, nobody had to ask.
+
+## What WhipScribe is
+
 WhipScribe turns recordings into things people can use. Upload a file,
 paste a link (YouTube, podcast, Drive, Dropbox) or record in the browser, and
 get back:
@@ -22,40 +41,45 @@ the [MCP server](https://whipscribe.com/claude), which gives any AI assistant
 (Claude, Cursor, Perplexity and others) the full set of tools: transcribe,
 summarise, ask, search, manage the library.
 
-This is a hiring challenge. We want to find four kinds of people,
-in this order: someone with a real eye for UI and UX, someone who builds well
-with AI tools, someone who will take a feature all the way to a customer, and
-someone who can see what a user needs and put it in their hands. Above all,
-someone with huge self-drive: you saw this, you started, nobody had to ask.
+We are a small team, moving fast, with real customers. The next person in
+will own real parts of this product from their first weeks.
 
 ## What you win
 
-A full-time job.
+**A full-time job. Immediate hire — we make the offer as soon as we see the
+right person.**
 
-- **Founding Software Engineer** at WhipScribe / Neugence — a core member of a
-  small team, not employee number two hundred.
-- **Fully remote.**
-- **₹6–10 LPA, negotiable** with what you bring and what you take on.
-- A fast-moving startup: you ship to real customers in your first weeks, and
-  what you build is yours to own.
+| | |
+|---|---|
+| Role | **Founding Software Engineer** at WhipScribe / Neugence — a core member of a small team, not employee number two hundred |
+| Where | **Fully remote** |
+| Pay | **₹6–10 LPA, negotiable** with what you bring and what you take on |
+| Day one | You ship to real customers in your first weeks; what you build is yours to own |
 
-The path there: people whose work stands out are invited to work with us for
-a few weeks on the real product — paid — so both sides can see whether it is
-the right fit. Then the offer.
+## The ladder
 
-**Immediate hire.** We make the offer as soon as we see the right person.
+| Step | What you do | What happens |
+|---|---|---|
+| 1 | **Track 0** — open a pull request with your track record: LinkedIn, repos, shipped apps, wins, teams | You are on the [leaderboard](https://whipscribe.com/buildathon); we check every link; you get the 7-day API credit coupon |
+| 2 | **Track 1** — use whipscribe.com on your phone and laptop, file what is wrong, propose fixes | Reviewers score it; your rank appears |
+| 3 | **Pick a build track** (2, 3 or 4), or more than one | Same: reviewed, scored, ranked |
+| 4 | Stand out | We invite you to work with us for a few weeks on the real product — **paid** — so both sides see the fit |
+| 5 | Fit | **The offer.** |
+
+Steps 1 and 2 are required. Step 3 is where you choose. You can stop at any
+step; say why.
 
 ## The tracks
 
 | | Track | |
 |---|---|---|
-| 0 | [Show us what you already have](#track-0--show-us-what-you-already-have-required) — a pull request with your LinkedIn, repos, shipped apps, wins and teams | **required, do it first** |
-| 1 | [Find what is wrong](#track-1--find-what-is-wrong-required) — UI bugs and proposals on the live product | **required** |
+| 0 | [Show us what you already have](#track-0--show-us-what-you-already-have) — a pull request with your LinkedIn, repos, shipped apps, wins and teams | **required, first** |
+| 1 | [Find what is wrong](#track-1--find-what-is-wrong) — UI bugs and proposals on the live product | **required** |
 | 2 | [Build the desktop app](#track-2--build-the-desktop-app) | pick one or more |
 | 3 | [Google Drive, bulk upload, search](#track-3--google-drive-bulk-upload-search) | pick one or more |
 | 4 | [Invent a workflow](#track-4--invent-a-workflow) on the API and MCP | pick one or more |
 
-## Track 0 — Show us what you already have (required)
+### Track 0 — Show us what you already have
 
 Before anything else, open a pull request that shows us your current work,
 with links: your LinkedIn, the repos you have built, the apps you have
@@ -72,9 +96,7 @@ checked live, Devpost pages are read for the winner mark, and your LinkedIn
 is matched against the one on your GitHub profile. It tells us how you work
 before you have written a line for us.
 
-Then Track 1, then anything else.
-
-## Track 1 — Find what is wrong (required)
+### Track 1 — Find what is wrong
 
 Use [whipscribe.com](https://whipscribe.com) on your phone and on your laptop.
 Sign in, upload a file, read the transcript, use the library, look at credits
@@ -92,7 +114,7 @@ see your eye, and for you to see the product you would be working on.
 **Start here:** [UI challenge 01 — the transcript page on a phone](challenges/01-mobile-transcript/README.md).
 A screenshot of today's screen; show us the after.
 
-## Track 2 — Build the desktop app
+### Track 2 — Build the desktop app
 
 A desktop app that:
 
@@ -125,7 +147,7 @@ One platform done well beats two done badly.
 Build in order: calendar → recording → transcript → library → polish. Stop
 where you like and say why.
 
-## Track 3 — Google Drive, bulk upload, search
+### Track 3 — Google Drive, bulk upload, search
 
 A web app that:
 
@@ -139,7 +161,7 @@ A web app that:
 A thorough design on its own is a valid entry for this track. The UI is most
 of the problem.
 
-## Track 4 — Invent a workflow
+### Track 4 — Invent a workflow
 
 Pick a real person with a real problem that recordings can solve, and build
 the workflow that solves it, on the WhipScribe API, the MCP server, or both.
@@ -205,6 +227,18 @@ workflow remove steps, not add a dashboard? Are the API and MCP used
 correctly and honestly? Did someone other than you try it? And does the
 vision hold up: can you see past the prototype to the product?
 
+## How to take part
+
+1. Fork this repo.
+2. **Track 0:** open a pull request with the **Track record** block in the
+   template filled in, and which tracks you plan to do. (An issue with the
+   **Introduction** template works if you are not ready for a pull request
+   yet.)
+3. **Track 1:** file UI bugs and proposals as issues here.
+4. Tracks 2, 3 and 4: build in `apps/your-name/` in your fork, with a README
+   that says how to run it and what works. Open a pull request when you want
+   us to look. Small and early beats big and late.
+
 ## What you need
 
 - Your own WhipScribe account. Get an API key under *Account → API key*.
@@ -231,19 +265,6 @@ count your commits against everyone else's, store links are checked live,
 Devpost pages are read for the winner mark, and your LinkedIn is matched
 against the one on your GitHub profile. Reviews are ours; the board is
 everyone's.
-
-## How to take part
-
-1. Fork this repo.
-2. **Track 0:** open a pull request with the **Track record** block filled
-   in: your LinkedIn, repos, shipped apps, wins, teams, and which tracks you
-   plan to do. That is your entry and how you get the credit coupon. (An
-   issue with the **Introduction** template works if you are not ready for a
-   pull request yet.)
-3. **Track 1:** file UI bugs and proposals here. Required.
-4. Tracks 2, 3 and 4: build in `apps/your-name/` in your fork, with a README
-   that says how to run it and what works. Open a pull request when you want
-   us to look. Small and early is better than big and late.
 
 ## How we judge
 
