@@ -90,6 +90,13 @@ AI tools are expected. `AGENTS.md` is the brief for them, `ai/prompts/` has a
 starter prompt for each track, and `TOOLS.md` sets up the MCP servers that
 speed you up: WhipScribe, Playwright, Context7, GitHub.
 
+## Leaderboard
+
+Live standings for every track and challenge: [whipscribe.com/buildathon](https://whipscribe.com/buildathon).
+You appear there as soon as you open an introduction issue or a pull request;
+your rank appears once reviewers have scored you. Reviews are ours; the
+board is everyone's.
+
 ## How to take part
 
 1. Fork this repo.
