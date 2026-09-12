@@ -1,9 +1,26 @@
 # WhipScribe Buildathon
 
-WhipScribe turns recordings into transcripts and summaries. Try it at
-[whipscribe.com](https://whipscribe.com). There is a public
-[API](https://whipscribe.com/docs) and an [MCP server](https://whipscribe.com/claude)
-for AI assistants.
+WhipScribe turns recordings into things people can use. Upload a file,
+paste a link (YouTube, podcast, Drive, Dropbox) or record in the browser, and
+get back:
+
+- **Transcripts** in 100+ languages, with speaker labels and timestamps, in
+  every export format.
+- **Summaries, topics and key quotes** for every recording.
+- **AI chat over your recordings:** ask a question of one file or of the whole
+  library and get the answer with its evidence — the speaker, the recording,
+  the exact second — and click to hear it.
+- **Audio intelligence:** search across everything you have transcribed by
+  what was actually said, quizzes and study help from lectures and videos,
+  insights pulled from meetings, interviews and calls.
+- **A library** of everything you have transcribed, organised in folders, that
+  you own and can delete any time.
+
+Try it at [whipscribe.com](https://whipscribe.com). The same abilities are
+open to builders through the public [API](https://whipscribe.com/docs) and
+the [MCP server](https://whipscribe.com/claude), which gives any AI assistant
+(Claude, Cursor, Perplexity and others) the full set of tools: transcribe,
+summarise, ask, search, manage the library.
 
 This is a hiring challenge. We want to find four kinds of people,
 in this order: someone with a real eye for UI and UX, someone who builds well

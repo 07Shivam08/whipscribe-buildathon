@@ -32,7 +32,10 @@ current work and repos — self-drive is judged. Track 1 is required for everyon
 
 ## What WhipScribe is
 
-Recordings in, transcripts and summaries out. Three public doors:
+Recordings in; transcripts with speakers and timestamps, summaries, topics and
+quotes, AI chat over one recording or the whole library with evidence at the
+exact second, search across everything transcribed, quizzes and insights, and
+a library the user owns. Three public doors:
 
 - The product: https://whipscribe.com (sign in to upload, view transcripts,
   manage the library, buy credits).
