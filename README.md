@@ -22,6 +22,23 @@ is how you get the credit coupon.
 
 Then pick one track or more.
 
+## What you win
+
+A full-time job.
+
+- **Founding Software Engineer** at WhipScribe / Neugence — a core member of a
+  small team, not employee number two hundred.
+- **Fully remote.**
+- **₹6–10 LPA, negotiable** with what you bring and what you take on.
+- A fast-moving startup: you ship to real customers in your first weeks, and
+  what you build is yours to own.
+
+The path there: people whose work stands out are invited to work with us for
+a few weeks on the real product — paid — so both sides can see whether it is
+the right fit. Then the offer.
+
+**Immediate hire.** We make the offer as soon as we see the right person.
+
 ## Track 1 — Find what is wrong
 
 Use [whipscribe.com](https://whipscribe.com) on your phone and on your laptop.
@@ -189,23 +206,6 @@ everyone's.
    in your fork, with a README that says how to run it and what works.
 4. Open a pull request when you want us to look. Small and early is better
    than big and late.
-
-## What you win
-
-A full-time job.
-
-- **Founding Software Engineer** at WhipScribe / Neugence — a core member of a
-  small team, not employee number two hundred.
-- **Fully remote.**
-- **₹6–10 LPA, negotiable** with what you bring and what you take on.
-- A fast-moving startup: you ship to real customers in your first weeks, and
-  what you build is yours to own.
-
-The path there: people whose work stands out are invited to work with us for
-a few weeks on the real product — paid — so both sides can see whether it is
-the right fit. Then the offer.
-
-**Immediate hire.** We make the offer as soon as we see the right person.
 
 ## How we judge
 
