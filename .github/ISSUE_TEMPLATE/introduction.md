@@ -24,7 +24,7 @@ Profile → Social accounts).
 
 **What running your shipped apps taught you**
 
-**Which track(s) and what I plan to build or find**
+**Which track(s) and what I plan to build or find** (Track 1 is required; this issue counts as Track 0 until your pull request is open)
 
 **How to reach me**
 

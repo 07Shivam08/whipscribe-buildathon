@@ -7,9 +7,12 @@ you on day one.
 
 ## What this repository is
 
-An open challenge in four tracks — see `README.md`:
+An open challenge in five tracks — see `README.md`:
 
-1. **Find what is wrong with the product.** Use whipscribe.com on a phone and
+0. **Show what you already have** (required): a pull request with the
+   Track record block filled in — LinkedIn, repos, shipped apps, wins,
+   teams. The leaderboard checks every link.
+1. **Find what is wrong with the product** (required). Use whipscribe.com on a phone and
    a laptop, file UI bugs as issues here, propose fixes.
 2. **Build the desktop app.** Calendar-aware meeting recorder that transcribes
    through the WhipScribe API and manages the library through the WhipScribe
@@ -24,8 +27,8 @@ An open challenge in four tracks — see `README.md`:
    a one-page problem statement, the drawn workflow, a working prototype, a
    two-minute recording and a vision of where it goes next.
 
-The first thing a contributor should do is open a pull request showing
-their current work and repos — self-drive is judged. Work for tracks 2, 3 and 4 lives in `apps/<your-name>/` in your fork, with its own README.
+The first thing a contributor does is Track 0: a pull request showing their
+current work and repos — self-drive is judged. Track 1 is required for everyone. Work for tracks 2, 3 and 4 lives in `apps/<your-name>/` in your fork, with its own README.
 
 ## What WhipScribe is
 

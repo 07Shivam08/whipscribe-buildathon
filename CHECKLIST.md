@@ -59,7 +59,7 @@ Store links:
 
 ### Self-drive
 
-- [ ] I opened a pull request with my current work and repos before being asked
+- [ ] I opened my Track 0 pull request with my current work and repos before being asked
 - [ ] I kept moving between reviews instead of waiting to be told the next step
 - [ ] I chose my own scope and said why
 
@@ -69,6 +69,7 @@ Store links:
 - [ ] I describe a thing that went wrong and how I found and fixed it
 - [ ] I asked a question in an issue early instead of guessing late
 
+Track 0 is the pull request with your track record; Track 1 is required.
 Track 1 entries (bug reports and proposals) are read for UI and UX, whether
 the fix is small, correct and complete, and learning; shipped apps and AI use
 count where you show them.

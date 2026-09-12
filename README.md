@@ -28,18 +28,26 @@ the right fit. Then the offer.
 
 **Immediate hire.** We make the offer as soon as we see the right person.
 
-**Start now, with what you already have.** Open a pull request that shows
-us your current work — the repos you have built, the apps you have shipped,
-the thing you are proudest of, with links. That counts. We read the
-contribution history in those repos: your own commits, not forks; whether
-you owned something complex from start to finish; and how you worked with
-others — reviews you gave, issues you answered, work you did alongside a
-team. It tells us how you work before you have written a line for us, and it
-is how you get the credit coupon.
+## Track 0 — Show us what you already have (required)
 
-Then pick one track or more.
+Before anything else, open a pull request that shows us your current work,
+with links: your LinkedIn, the repos you have built, the apps you have
+shipped, the thing you are proudest of, hackathons you won, teams you led.
+The pull request template has a **Track record** block; fill in every line
+that is true.
 
-## Track 1 — Find what is wrong
+That pull request is your entry. It is how you get the credit coupon, and it
+is what we read first. We check it, not just read it: in every repo you link
+we count your commits against everyone else's, whether you owned something
+complex from start to finish, and how you worked with others — reviews you
+gave, issues you answered, work you did alongside a team. Store links are
+checked live, Devpost pages are read for the winner mark, and your LinkedIn
+is matched against the one on your GitHub profile. It tells us how you work
+before you have written a line for us.
+
+Then Track 1, then anything else.
+
+## Track 1 — Find what is wrong (required)
 
 Use [whipscribe.com](https://whipscribe.com) on your phone and on your laptop.
 Sign in, upload a file, read the transcript, use the library, look at credits
@@ -51,7 +59,8 @@ and pricing. It is the live product.
   a mockup or before/after.
 
 We read proposals before code. A small fix for a real problem beats a long
-list.
+list. Every participant does this track: it is the quickest way for us to
+see your eye, and for you to see the product you would be working on.
 
 **Start here:** [UI challenge 01 — the transcript page on a phone](challenges/01-mobile-transcript/README.md).
 A screenshot of today's screen; show us the after.
@@ -186,8 +195,8 @@ speed you up: WhipScribe, Playwright, Context7, GitHub.
 ## Leaderboard
 
 Live standings for every track and challenge: [whipscribe.com/buildathon](https://whipscribe.com/buildathon).
-You appear there as soon as you open an introduction issue or a pull request;
-your rank appears once reviewers have scored you. Click any name for the
+You appear there as soon as your Track 0 pull request is open; your rank
+appears once reviewers have scored you. Click any name for the
 profile: GitHub facts, the **Track record** you wrote in your introduction
 (LinkedIn, shipped apps, hackathon wins, teams led, team projects), and every
 score. What you claim is checked, not just read: for every repo you link we
@@ -199,13 +208,15 @@ everyone's.
 ## How to take part
 
 1. Fork this repo.
-2. Open a pull request (or an issue with the **Introduction** template) with
-   a line about you, your LinkedIn, links to your repos and shipped apps, and
-   what you plan to do. That is how you get the credit coupon.
-3. Track 1: file issues here. Tracks 2, 3 and 4: build in `apps/your-name/`
-   in your fork, with a README that says how to run it and what works.
-4. Open a pull request when you want us to look. Small and early is better
-   than big and late.
+2. **Track 0:** open a pull request with the **Track record** block filled
+   in: your LinkedIn, repos, shipped apps, wins, teams, and which tracks you
+   plan to do. That is your entry and how you get the credit coupon. (An
+   issue with the **Introduction** template works if you are not ready for a
+   pull request yet.)
+3. **Track 1:** file UI bugs and proposals here. Required.
+4. Tracks 2, 3 and 4: build in `apps/your-name/` in your fork, with a README
+   that says how to run it and what works. Open a pull request when you want
+   us to look. Small and early is better than big and late.
 
 ## How we judge
 
@@ -219,8 +230,8 @@ tickable list that is already in the Introduction and pull request templates.
 3. **Finishing.** One thing that works for a real user beats three that
    nearly do.
 4. **Learning.** Say what was new to you and how it went.
-5. **Self-drive.** Did you start before anyone asked, show what you have
-   already built, and keep moving without being chased?
+5. **Self-drive.** Did you open Track 0 before anyone asked, show what you
+   have already built, and keep moving without being chased?
 6. **Ownership and teamwork.** In the repos you link: did you own a complex
    project end to end, and did you work well with others — reviews, issues,
    shared work? Hackathons you won, teams you led, and team projects you
