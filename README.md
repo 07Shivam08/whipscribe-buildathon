@@ -5,10 +5,10 @@ or upload a file at [whipscribe.com](https://whipscribe.com), or call the
 [API](https://whipscribe.com/docs), or use it inside Claude through the
 [WhipScribe MCP server](https://whipscribe.com/claude).
 
-This repository is an open challenge in two tracks. We are looking for people,
+This repository is an open challenge in three tracks. We are looking for people,
 not just pull requests: someone with a real eye for UI and UX first, then
 someone who builds well with AI tools, then someone who will take a feature all
-the way to a customer and learn whatever the road needs. Do one track or both.
+the way to a customer and learn whatever the road needs. Do one track or several.
 
 ## Track 1 · Find what is wrong with the product
 
@@ -85,11 +85,36 @@ meetings while you build instead of rationing the free daily allowance.
 Redeem it under *Credits* in the app; it applies to the account whose API key
 you use.
 
+## Track 3 · Google Drive, bulk upload and search
+
+Most people's recordings already sit in a folder somewhere. Build the piece
+that meets them there:
+
+1. **Connect Google Drive** and let the user pick folders. Other storage
+   (Dropbox, OneDrive, a local folder) is a bonus.
+2. **Bulk upload.** Send everything in the chosen folders to WhipScribe through
+   the API, show progress per file, keep going when the user closes the tab,
+   and pick up new files that appear later.
+3. **Browse and search.** A page that lists what was transcribed, by folder,
+   and searches across all of it — the words inside the transcripts, not just
+   the file names — with results that jump to the moment in the recording.
+   Asking a question across a folder ("what did we decide about pricing?") is
+   the stretch goal.
+
+Build it as a web app in your fork under `apps/<your-name>/`, on the public API
+for transcription and the MCP server for the library. A thorough design — the
+flows, the states, the search results page, the empty folder, the 400-file
+folder — is a valid entry on its own for this track; the UI is most of the
+problem.
+
+Suggested order: connect Drive and list a folder → upload one file and show
+its transcript → bulk with progress → search → ask.
+
 ## How to take part
 
 1. Fork this repository.
-2. Track 1: file issues here. Track 2: build in your fork under `apps/<your-name>/`
-   with a README that says how to run it and what works.
+2. Track 1: file issues here. Tracks 2 and 3: build in your fork under
+   `apps/<your-name>/` with a README that says how to run it and what works.
 3. Open a pull request when you want us to look. Small, early PRs are better
    than one large one at the end; we will comment as you go.
 4. Open an issue titled *Introduction: <name>* with a line about you and what

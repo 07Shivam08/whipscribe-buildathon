@@ -7,15 +7,18 @@ you on day one.
 
 ## What this repository is
 
-An open challenge in two tracks — see `README.md`:
+An open challenge in three tracks — see `README.md`:
 
 1. **Find what is wrong with the product.** Use whipscribe.com on a phone and
    a laptop, file UI bugs as issues here, propose fixes.
 2. **Build the desktop app.** Calendar-aware meeting recorder that transcribes
    through the WhipScribe API and manages the library through the WhipScribe
    MCP server. Reference for the level of finish: Buzz.
+3. **Google Drive, bulk upload and search.** Connect Drive, pick folders,
+   transcribe everything in them with progress, then browse and search
+   across the transcripts; asking a question across a folder is the stretch.
 
-Work for track 2 lives in `apps/<your-name>/` in your fork, with its own README.
+Work for tracks 2 and 3 lives in `apps/<your-name>/` in your fork, with its own README.
 
 ## What WhipScribe is
 
@@ -69,6 +72,15 @@ Recordings in, transcripts and summaries out. Three public doors:
 5. Polish: states, shortcuts, notifications, first-run experience.
 
 Stop anywhere and submit; say where and why.
+
+## Suggested order for track 3
+
+1. Google Drive OAuth for a web app; list a folder the user picks.
+2. Upload one file through the API; show its transcript.
+3. Bulk: a queue with per-file progress that survives the tab closing;
+   re-scan for new files.
+4. Search across transcripts with results that jump to the moment.
+5. Ask a question across a folder.
 
 ## Starter prompts
 

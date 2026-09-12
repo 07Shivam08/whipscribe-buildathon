@@ -7,4 +7,4 @@ Read AGENTS.md at the repository root before starting; it is the brief and the r
 - No secrets in the repo; keys and OAuth secrets live in ignored local config.
 - Do not invent API behaviour: use https://whipscribe.com/docs or a real response.
 - Small PRs; commit messages name the change; READMEs say what is unfinished.
-- Track 2 code lives in apps/<your-name>/ with its own README.
+- Track 2 and 3 code lives in apps/<your-name>/ with its own README.
