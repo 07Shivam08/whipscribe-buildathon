@@ -16,10 +16,11 @@ Use WhipScribe the way a real person would — on your phone and on your laptop 
 and write down every place it is confusing, broken, slow or ugly. Then propose
 the fix.
 
-**Where to look:** [whipscribe.com](https://whipscribe.com) (landing and free
-tools), the signed-in app at [app.whipscribe.com](https://app.whipscribe.com)
-(upload, transcript view, library, credits), and the pricing page. Mobile
-Safari, mobile Chrome, and a desktop browser each count separately.
+**Where to look:** everything at [whipscribe.com](https://whipscribe.com) —
+the landing page and free tools, and once signed in: upload, the transcript
+view, the library, credits, and the pricing page. This is the live product,
+so what you find is what customers see. Mobile Safari, mobile Chrome, and a
+desktop browser each count separately.
 
 **How to file:** open an issue here with the *UI bug* template. One issue per
 problem. A good report has the device and browser, the exact steps, what you
