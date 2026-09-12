@@ -123,8 +123,7 @@ The path there: people whose work stands out are invited to work with us for
 a few weeks on the real product — paid — so both sides can see whether it is
 the right fit. Then the offer.
 
-There is no deadline and no waiting for a round to close: we hire as soon as
-we see the right person. Submit when you are ready.
+**Immediate hire.** We make the offer as soon as we see the right person.
 
 ## How we judge
 
