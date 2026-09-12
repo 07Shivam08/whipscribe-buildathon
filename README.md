@@ -39,7 +39,19 @@ A desktop app that:
    delete.
 
 For the level of finish we mean, see [Buzz](https://github.com/chidiwilliams/buzz).
-Any stack. One platform done well beats two done badly.
+
+Any stack; say why you chose yours. Guidance, not rules:
+
+- **Windows:** .NET + WinUI 3 if you want deep Outlook, Teams and Microsoft
+  Graph integration; Tauri 2 if you want Windows and macOS from one build with
+  a web UI. Electron is fine if it is what you ship fastest.
+- **macOS:** the same Tauri 2 or Electron build. Recording system audio needs
+  ScreenCaptureKit permissions — the hardest part of the app.
+- **iOS:** Swift and SwiftUI. Know the limit before you start: iOS does not let
+  an app capture another app's audio, so a phone can record a meeting only
+  through the microphone. Design for that.
+
+One platform done well beats two done badly.
 
 Build in order: calendar → recording → transcript → library → polish. Stop
 where you like and say why.
