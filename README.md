@@ -8,8 +8,16 @@ for AI assistants.
 This is a hiring challenge. We want to find three kinds of people,
 in this order: someone with a real eye for UI and UX, someone who builds well
 with AI tools, and someone who will take a feature all the way to a customer.
+Above all, someone with huge self-drive: you saw this, you started, nobody
+had to ask.
 
-Pick one track or more.
+**Start now, with what you already have.** Open a pull request that shows
+us your current work — the repos you have built, the apps you have shipped,
+the thing you are proudest of, with links. That counts. It tells us how you
+work before you have written a line for us, and it is how you get the credit
+coupon.
+
+Then pick one track or more.
 
 ## Track 1 — Find what is wrong
 
@@ -99,9 +107,9 @@ board is everyone's.
 ## How to take part
 
 1. Fork this repo.
-2. Open an issue with the **Introduction** template: a line about you, the
-   apps you have shipped, and what you plan to do. That is how you get the
-   credit coupon.
+2. Open a pull request (or an issue with the **Introduction** template) with
+   a line about you, links to your repos and shipped apps, and what you plan
+   to do. That is how you get the credit coupon.
 3. Track 1: file issues here. Tracks 2 and 3: build in `apps/your-name/` in
    your fork, with a README that says how to run it and what works.
 4. Open a pull request when you want us to look. Small and early is better
@@ -136,7 +144,9 @@ tickable list that is already in the Introduction and pull request templates.
 3. **Finishing.** One thing that works for a real user beats three that
    nearly do.
 4. **Learning.** Say what was new to you and how it went.
-5. **Shipped apps.** iOS or Android apps you built that are live in a store
+5. **Self-drive.** Did you start before anyone asked, show what you have
+   already built, and keep moving without being chased?
+6. **Shipped apps.** iOS or Android apps you built that are live in a store
    with real users count. Paste the links in your introduction.
 
 ## Rules

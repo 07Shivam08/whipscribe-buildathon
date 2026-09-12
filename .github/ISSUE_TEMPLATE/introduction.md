@@ -48,6 +48,12 @@ Store links:
 - [ ] The README says exactly what does not work yet
 - [ ] Install and run instructions work on a machine that is not mine
 
+### Self-drive
+
+- [ ] I opened a pull request with my current work and repos before being asked
+- [ ] I kept moving between reviews instead of waiting to be told the next step
+- [ ] I chose my own scope and said why
+
 ### Learning
 
 - [ ] I name something that was new to me and how I learned it

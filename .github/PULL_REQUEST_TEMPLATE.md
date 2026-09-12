@@ -1,4 +1,4 @@
-**Track** (UI fix / desktop app / Drive, bulk upload and search)
+**Track** (my current work and repos / UI fix / desktop app / Drive, bulk upload and search)
 
 **What this does**
 
@@ -8,7 +8,7 @@
 
 **What I learned or had to look up**
 
-**About me** (name, how to reach you — or link your introduction issue)
+**About me** (name, how to reach you, links to repos and apps you have built)
 
 ## Checklist
 
@@ -46,6 +46,12 @@ Store links:
 - [ ] Someone other than me used it and I changed something because of it
 - [ ] The README says exactly what does not work yet
 - [ ] Install and run instructions work on a machine that is not mine
+
+### Self-drive
+
+- [ ] I opened a pull request with my current work and repos before being asked
+- [ ] I kept moving between reviews instead of waiting to be told the next step
+- [ ] I chose my own scope and said why
 
 ### Learning
 

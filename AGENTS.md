@@ -19,7 +19,8 @@ An open challenge in three tracks — see `README.md`:
    transcribe everything in them with progress, then browse and search
    across the transcripts; asking a question across a folder is the stretch.
 
-Work for tracks 2 and 3 lives in `apps/<your-name>/` in your fork, with its own README.
+The first thing a contributor should do is open a pull request showing
+their current work and repos — self-drive is judged. Work for tracks 2 and 3 lives in `apps/<your-name>/` in your fork, with its own README.
 
 ## What WhipScribe is
 
