@@ -123,8 +123,8 @@ its transcript → bulk with progress → search → ask.
 
 ## Prizes
 
-- **Winner:** the Neugence Challenge certificate, and cash of **6,000**.
-- **Second:** **4,000**.
+- **Winner:** the Neugence Challenge certificate, and **₹6,000** (Indian rupees) in cash.
+- **Second:** **₹4,000**.
 - **The real prize:** people whose work stands out are invited to work with
   us for a few weeks on the real product — paid, with real access and real
   customers — so both sides can see whether it is the right fit. That is the
