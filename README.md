@@ -121,9 +121,16 @@ its transcript → bulk with progress → search → ask.
    you plan to do — that is also how you get the 7-day credit coupon — or put
    the same in your first PR description.
 
-There is no deadline and no fixed prize. People whose work stands out are
-invited to keep going with us on the real product, with access, ownership and
-pay that grow with what they take on.
+## Prizes
+
+- **Winner:** the Neugence Challenge certificate, and cash of **6,000**.
+- **Second:** **4,000**. **Third:** **2,000**.
+- Everyone whose work stands out is invited to keep going with us on the real
+  product, with access, ownership and pay that grow with what they take on.
+
+Entries across all three tracks are judged together, against the criteria
+below. There is no deadline yet; when one is set it will be announced here
+and in every open issue.
 
 ## How we judge
 
