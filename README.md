@@ -40,8 +40,10 @@ Build a desktop app that:
 
 1. Connects to the user's calendar — Google Calendar first; Outlook, Apple
    Calendar or others are a bonus — and shows what is coming up.
-2. Starts a recording for a meeting (system audio, microphone, or both), with
-   a clear way to start, pause and stop.
+2. Records the meeting — system audio, microphone, or both — with a clear way
+   to start, pause and stop, and a recording that survives the app closing
+   mid-call. Meeting recordings are the heart of this track: the transcript
+   your app shows should read like the meeting, with speakers told apart.
 3. Sends the recording to WhipScribe through the public API and shows the
    transcript, summary and speakers when they are ready.
 4. Manages the user's recordings and transcripts — folders, search, rename,
@@ -70,9 +72,11 @@ stopped and why.
   a Cloud project with the Calendar API enabled and an OAuth client for a
   desktop app). Keep your client secret out of the repository.
 
-Free accounts have a daily allowance of transcription minutes; that is enough
-to build and demo. If you run into the limit while testing, say so in your
-submission and we will sort it out.
+**Credits for testing.** Introduce yourself (see *How to take part*) and we
+send you a 7-day coupon code for API credits, so you can transcribe real
+meetings while you build instead of rationing the free daily allowance.
+Redeem it under *Credits* in the app; it applies to the account whose API key
+you use.
 
 ## How to take part
 
@@ -81,8 +85,9 @@ submission and we will sort it out.
    with a README that says how to run it and what works.
 3. Open a pull request when you want us to look. Small, early PRs are better
    than one large one at the end; we will comment as you go.
-4. Put your name and how to reach you in the PR description — or open an issue
-   titled *Introduction: <name>* if you would rather talk first.
+4. Open an issue titled *Introduction: <name>* with a line about you and what
+   you plan to do — that is also how you get the 7-day credit coupon — or put
+   the same in your first PR description.
 
 There is no deadline and no fixed prize. People whose work stands out are
 invited to keep going with us on the real product, with access, ownership and
