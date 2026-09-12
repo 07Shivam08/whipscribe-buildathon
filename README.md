@@ -5,7 +5,7 @@ WhipScribe turns recordings into transcripts and summaries. Try it at
 [API](https://whipscribe.com/docs) and an [MCP server](https://whipscribe.com/claude)
 for AI assistants.
 
-This is a challenge and a way of hiring. We want to find three kinds of people,
+This is a hiring challenge. We want to find three kinds of people,
 in this order: someone with a real eye for UI and UX, someone who builds well
 with AI tools, and someone who will take a feature all the way to a customer.
 
@@ -108,13 +108,20 @@ board is everyone's.
 4. Open a pull request when you want us to look. Small and early is better
    than big and late.
 
-## Prizes
+## What you win
 
-- **Winner:** the Neugence Challenge certificate and **₹6,000**.
-- **Second:** **₹4,000**.
-- **The real prize:** people whose work stands out work with us for a few
-  weeks on the real product — paid, with real customers — to see if it is the
-  right fit. That is the path to a full-time offer.
+A full-time job.
+
+- **Founding Software Engineer** at WhipScribe / Neugence — a core member of a
+  small team, not employee number two hundred.
+- **Fully remote.**
+- **₹6–10 LPA, negotiable** with what you bring and what you take on.
+- A fast-moving startup: you ship to real customers in your first weeks, and
+  what you build is yours to own.
+
+The path there: people whose work stands out are invited to work with us for
+a few weeks on the real product — paid — so both sides can see whether it is
+the right fit. Then the offer.
 
 No deadline yet. When there is one, it will be posted here.
 
