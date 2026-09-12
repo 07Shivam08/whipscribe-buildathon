@@ -11,17 +11,6 @@ with AI tools, someone who will take a feature all the way to a customer, and
 someone who can see what a user needs and put it in their hands. Above all,
 someone with huge self-drive: you saw this, you started, nobody had to ask.
 
-**Start now, with what you already have.** Open a pull request that shows
-us your current work — the repos you have built, the apps you have shipped,
-the thing you are proudest of, with links. That counts. We read the
-contribution history in those repos: your own commits, not forks; whether
-you owned something complex from start to finish; and how you worked with
-others — reviews you gave, issues you answered, work you did alongside a
-team. It tells us how you work before you have written a line for us, and it
-is how you get the credit coupon.
-
-Then pick one track or more.
-
 ## What you win
 
 A full-time job.
@@ -38,6 +27,17 @@ a few weeks on the real product — paid — so both sides can see whether it is
 the right fit. Then the offer.
 
 **Immediate hire.** We make the offer as soon as we see the right person.
+
+**Start now, with what you already have.** Open a pull request that shows
+us your current work — the repos you have built, the apps you have shipped,
+the thing you are proudest of, with links. That counts. We read the
+contribution history in those repos: your own commits, not forks; whether
+you owned something complex from start to finish; and how you worked with
+others — reviews you gave, issues you answered, work you did alongside a
+team. It tells us how you work before you have written a line for us, and it
+is how you get the credit coupon.
+
+Then pick one track or more.
 
 ## Track 1 — Find what is wrong
 
