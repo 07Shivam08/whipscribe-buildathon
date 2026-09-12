@@ -53,6 +53,8 @@ Store links:
 - [ ] One of them is a complex project I owned from start to finish
 - [ ] I have reviewed others' pull requests or answered their issues, and can point to it
 - [ ] I have shipped work alongside a team, and can say what I did and what they did
+- [ ] I have won a hackathon (link the entry and the result)
+- [ ] I have led a team, and can say what I decided and what I delegated
 
 ### Self-drive
 

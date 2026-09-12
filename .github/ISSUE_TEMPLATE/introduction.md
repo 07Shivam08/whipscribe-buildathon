@@ -9,6 +9,8 @@ labels: introduction
 
 **Apps I have shipped** (App Store / Play Store links, if any, and what running them taught you)
 
+**Hackathons, teams, team projects** (wins with links, teams you led, team projects you shipped — and your part in each)
+
 **Which track(s) and what I plan to build or find**
 
 **How to reach me**
@@ -54,6 +56,8 @@ Store links:
 - [ ] One of them is a complex project I owned from start to finish
 - [ ] I have reviewed others' pull requests or answered their issues, and can point to it
 - [ ] I have shipped work alongside a team, and can say what I did and what they did
+- [ ] I have won a hackathon (link the entry and the result)
+- [ ] I have led a team, and can say what I decided and what I delegated
 
 ### Self-drive
 

@@ -151,7 +151,8 @@ tickable list that is already in the Introduction and pull request templates.
    already built, and keep moving without being chased?
 6. **Ownership and teamwork.** In the repos you link: did you own a complex
    project end to end, and did you work well with others — reviews, issues,
-   shared work?
+   shared work? Hackathons you won, teams you led, and team projects you
+   shipped all count here; link them and say what your part was.
 7. **Shipped apps.** iOS or Android apps you built that are live in a store
    with real users count. Paste the links in your introduction.
 
