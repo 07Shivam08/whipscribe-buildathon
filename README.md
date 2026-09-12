@@ -48,9 +48,8 @@ Tell us what you looked at and what you chose to do differently.
 
 Any stack; say why you chose yours. Guidance, not rules:
 
-- **Windows:** .NET + WinUI 3 if you want deep Outlook, Teams and Microsoft
-  Graph integration; Tauri 2 if you want Windows and macOS from one build with
-  a web UI. Electron is fine if it is what you ship fastest.
+- **Windows:** Tauri 2 if you want Windows and macOS from one build with a
+  web UI. Electron is fine if it is what you ship fastest.
 - **macOS:** the same Tauri 2 or Electron build. Recording system audio needs
   ScreenCaptureKit permissions — the hardest part of the app.
 
