@@ -8,7 +8,19 @@
 
 **What I learned or had to look up**
 
-**About me** (name, how to reach you, links to repos and apps you have built)
+**About me** (name, how to reach you)
+
+## Track record
+
+Keep the labels; the leaderboard reads these lines into your profile.
+
+- Shipped apps: <store links, comma-separated>
+- Hackathon wins: <event, result, link>
+- Team lead: <what you led, team size, outcome>
+- Team projects: <link, and your part in it>
+- Proudest work: <one link>
+- Contributions elsewhere: <PRs you have had merged in others' repos, issues answered>
+
 
 ## Checklist
 

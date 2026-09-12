@@ -104,8 +104,10 @@ speed you up: WhipScribe, Playwright, Context7, GitHub.
 
 Live standings for every track and challenge: [whipscribe.com/buildathon](https://whipscribe.com/buildathon).
 You appear there as soon as you open an introduction issue or a pull request;
-your rank appears once reviewers have scored you. Reviews are ours; the
-board is everyone's.
+your rank appears once reviewers have scored you. Click any name for the
+profile: GitHub facts, the **Track record** you wrote in your introduction
+(shipped apps, hackathon wins, teams led, team projects), and every score.
+Reviews are ours; the board is everyone's.
 
 ## How to take part
 

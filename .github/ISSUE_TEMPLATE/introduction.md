@@ -7,9 +7,18 @@ labels: introduction
 
 **About me** (a few lines; where you are, what you build)
 
-**Apps I have shipped** (App Store / Play Store links, if any, and what running them taught you)
+**Track record**
 
-**Hackathons, teams, team projects** (wins with links, teams you led, team projects you shipped — and your part in each)
+Keep the labels; the leaderboard reads these lines into your profile.
+
+- Shipped apps: <store links, comma-separated>
+- Hackathon wins: <event, result, link>
+- Team lead: <what you led, team size, outcome>
+- Team projects: <link, and your part in it>
+- Proudest work: <one link>
+- Contributions elsewhere: <PRs you have had merged in others' repos, issues answered>
+
+**What running your shipped apps taught you**
 
 **Which track(s) and what I plan to build or find**
 
