@@ -5,8 +5,8 @@ or upload a file at [whipscribe.com](https://whipscribe.com), or call the
 [API](https://whipscribe.com/docs), or use it inside Claude through the
 [WhipScribe MCP server](https://whipscribe.com/claude).
 
-This repository is an open challenge in three tracks. We are looking for people,
-not just pull requests: someone with a real eye for UI and UX first, then
+This repository is an open challenge in three tracks, and a way of hiring. We
+are looking for people, not just pull requests: someone with a real eye for UI and UX first, then
 someone who builds well with AI tools, then someone who will take a feature all
 the way to a customer and learn whatever the road needs. Do one track or several.
 
@@ -125,8 +125,10 @@ its transcript → bulk with progress → search → ask.
 
 - **Winner:** the Neugence Challenge certificate, and cash of **6,000**.
 - **Second:** **4,000**.
-- Everyone whose work stands out is invited to keep going with us on the real
-  product, with access, ownership and pay that grow with what they take on.
+- **The real prize:** people whose work stands out are invited to work with
+  us for a few weeks on the real product — paid, with real access and real
+  customers — so both sides can see whether it is the right fit. That is the
+  path to a full-time offer.
 
 Entries across all three tracks are judged together, against the criteria
 below. There is no deadline yet; when one is set it will be announced here
