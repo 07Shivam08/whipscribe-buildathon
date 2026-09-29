@@ -255,9 +255,11 @@ speed you up: WhipScribe, Playwright, Context7, GitHub.
 
 ## Leaderboard
 
-> **Reviews are in progress.** Scores and ranks appear on the board as each
-> review lands, and every participant gets written feedback on their pull
-> request. Keep building; new submissions join the queue.
+> **Reviews are in progress.** Scores appear on the board as each review
+> lands, and every participant gets written feedback on their pull request.
+> The order is our selection-criteria ordering, not a final ranking: it moves
+> as reviews, API usage and new work come in. Keep building; new submissions
+> join the queue.
 
 Live standings for every track and challenge: [whipscribe.com/buildathon](https://whipscribe.com/buildathon).
 You appear there as soon as your Track 0 pull request is open; your rank
